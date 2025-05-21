@@ -19,7 +19,7 @@ Umożliwia przeglądanie wyników, paginację oraz dodawanie filmów do ulubiony
 1. Sklonuj repozytorium:
    ```bash
    git clone https://github.com/ZamrokJulita/Movie-Explorer.git
-   cd Movie-Eplorer
+   cd Movie-Explorer
 2. Zainstaluj zależności
    ```bash
    npm install
