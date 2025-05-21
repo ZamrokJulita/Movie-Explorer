@@ -54,4 +54,4 @@ Jeśli chcesz użyć własnego klucza, zamień wartość zmiennej `API_KEY` w `M
 
 ## Autor
 
-Julita
+ZamrokJulita
